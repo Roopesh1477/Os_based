@@ -1,43 +1,24 @@
-# AI Security Toolkit
+# AI Security OS
 
 ## Introduction
 
-AI Security Toolkit is a cybersecurity-focused project that aims to integrate artificial intelligence with security tools to assist in detecting potential threats, analyzing network behavior, and improving defensive security practices.
+AI Security OS is a project focused on developing security capabilities for a Linux-based operating system environment.  
+The goal of this project is to explore how artificial intelligence and machine learning can be used to assist in security monitoring, threat detection, and system analysis.
 
-The project is designed as a modular toolkit where machine learning models and cybersecurity utilities can work together to analyze security-related data and support automated threat detection.
-
-This project is currently under active development and will continue to evolve as new tools and AI models are added.
-
----
+This repository contains the initial structure and scripts that will be used to build and experiment with AI-driven security components for the operating system.
 
 ## Work Done So Far
 
-Current progress includes foundational work in cybersecurity and networking, including:
+Current progress includes:
 
-- Development of a **multi-threaded port scanner using Python**
-- Practical experience with **network programming and socket-based scanning**
-- Hands-on practice with **Linux environments**
-- Experience with **OverTheWire Bandit wargames for Linux and security fundamentals**
-- Understanding of **basic networking concepts and protocols**
-- Initial setup of the **AI Security Toolkit project structure**
+- Initial project repository setup
+- Creation of project directory structure
+- Implementation of a basic machine learning training script for security-related experimentation
+- Preparation of folders for datasets, models, tools, and training scripts
 
-This repository will be used to integrate future work involving **machine learning models for security analysis**, intelligent scanning tools, and automated threat detection systems.
+Further development will expand these components as the project progresses.
 
----
-
-## Project Status
-
-This project is in the early development phase and will continue to expand with additional tools, models, and features.
-
-Future updates will include:
-- AI-based anomaly detection
-- Intelligent security scanning tools
-- Network traffic analysis
-- Security log analysis using machine learning
-
----
-
-## Author
+## Authors
 
 Abhi  
-Cybersecurity and AI enthusiast
+Roopesh
